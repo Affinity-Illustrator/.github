@@ -52,7 +52,7 @@ Affinity Illustrator includes a broad collection of tools designed for professio
 
 ## What It Looks Like
 
-![Interface](https://forum.affinity.serif.com/uploads/monthly_2019_06/affinity-photo-ss.PNG.37d7c35e0f5aff0deeb3220c2bfda893.PNG)
+![Interface](https://www.affinity.studio/cdn-cgi/image/metadata=copyright,onerror=redirect,w=1800,format=auto,q=medium-low/https:/content-management-files.affinity.studio/4b26085b-9b8f-4205-9273-96836be5f213/3000x2000-Light-UI2.png)
 
 ---
 
